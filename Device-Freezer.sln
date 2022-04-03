@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Device-Freezer", "Device-Freezer\Device-Freezer.csproj", "{757BF05A-6CC5-4CFC-8FE0-2A2CEAF83C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757BF05A-6CC5-4CFC-8FE0-2A2CEAF83C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757BF05A-6CC5-4CFC-8FE0-2A2CEAF83C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757BF05A-6CC5-4CFC-8FE0-2A2CEAF83C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757BF05A-6CC5-4CFC-8FE0-2A2CEAF83C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC364B1E-41E9-4C2B-A5D7-C8C5E5ADDE48}
+	EndGlobalSection
+EndGlobal

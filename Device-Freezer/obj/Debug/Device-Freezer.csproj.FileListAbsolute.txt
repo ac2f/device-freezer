@@ -1,0 +1,13 @@
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\bin\Debug\Device-Freezer.exe.config
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\bin\Debug\Device-Freezer.exe
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\bin\Debug\Device-Freezer.pdb
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device-Freezer.csproj.AssemblyReference.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device-Freezer.csproj.SuggestedBindingRedirects.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device_Freezer.Form1.resources
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device_Freezer.Properties.Resources.resources
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device-Freezer.csproj.GenerateResource.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device-Freezer.csproj.CoreCompileInputs.cache
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device-Freezer.exe
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device-Freezer.pdb
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\bin\Debug\QRCoder.dll
+D:\WindowsDirectories\Backup\a1_0\Documents\code\csharp\Device-Freezer\Device-Freezer\Device-Freezer\obj\Debug\Device-Freezer.csproj.CopyComplete
